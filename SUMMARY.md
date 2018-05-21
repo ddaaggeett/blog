@@ -1,12 +1,13 @@
 # Table of contents
 
-* [who's this guy?](README.md)
+* [Dave Daggett](README.md)
 * [Work](work/README.md)
-  * [Engineering](work/untitled.md)
+  * [Domestic](work/domestic.md)
+  * [Engineering](work/engineering.md)
   * [Restaurants](work/restaurants.md)
-* [Interests](projects/README.md)
-  * [Music](projects/untitled.md)
-  * [Literature](projects/books.md)
-  * [Faith](projects/faith.md)
-  * [Sports](projects/sports.md)
-
+* [Hobbies](hobbies/README.md)
+  * [Music](hobbies/music.md)
+  * [Literature](hobbies/books.md)
+  * [Food](hobbies/food.md)
+  * [Faith](hobbies/faith.md)
+  * [Sports](hobbies/sports.md)
