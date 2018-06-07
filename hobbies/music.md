@@ -12,6 +12,6 @@ Outside of my favorite sax players, I do have other influences. I love the music
 
 #### Pop
 
-I've never really been a fan of pop music. I think maybe ninety nine percent of them are not actual musicians.
+I've never really been a fan of pop music. I think possibly ninety nine percent of the people who consider themselves musicians are, in fact, not at all.
 
 With that said, I believe [Ed Sheeran](http://www.edsheeran.com/) to be the greatest musician of our generation.
