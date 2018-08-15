@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "--- description: 'two parts father, one part creative' ---",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook build && gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddaaggeett/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddaaggeett/blog/issues"
+  },
+  "homepage": "https://github.com/ddaaggeett/blog#readme"
+}
