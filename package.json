@@ -4,7 +4,8 @@
   "description": "--- description: 'two parts father, one part creative' ---",
   "main": "index.js",
   "scripts": {
-    "start": "gitbook build && gitbook serve"
+    "start": "gitbook build && gitbook serve",
+    "build": "gitbook build && cp -R _book/* ."
   },
   "repository": {
     "type": "git",
