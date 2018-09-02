@@ -1,13 +1,18 @@
----
-description: 'two parts father, one part creative'
----
+<div id="headerImgBlock">
+    <img class="headerImageGroup" id="profile-image" src="./assets/img/profile.png" />
+    <div class="headerImageGroup" id="mediaIconGroup">
+        <a href="https://github.com/ddaaggeett" target="_blank"><img class="mediaIcon" id="github" src="./assets/img/github.png" /></a>
+        <a href="https://www.youtube.com/channel/UCJxVVEGm6TFz68Y9Qe3IZtA" target="_blank"><img class="mediaIcon" id="youtube" src="./assets/img/youtube.png" /></a>
+        <a href="https://twitter.com/ddaaggeett" target="_blank"><img class="mediaIcon" id="twitter" src="./assets/img/twitter.png" /></a>
+    </div>
+</div>
 
-<img id="profile-image" src="./assets/img/profile.png" />
+### hi, I'm Dave Daggett
 
-# hi, I'm [Dave Daggett](http://ddaaggeett.xyz)
+#### contact me
 
-This is a blog (of sorts).
-
-#### why this blog?
-
-Maintaining an array of articles seems like a better method to keep a train of thought in order. I'd like to use this platform as a means to link any readers to any particular thing I find significant in my very limited scope of the world.
+<form action="https://formspree.io/david.g.daggett@gmail.com" method="POST" name="contact_form" target="_top" id="contact_form">
+    <input class="formItem" type="text" name="_replyto" cols="35" id="email" value="" tabindex="4" placeholder="your email" />
+    <textarea class="formItem" placeholder="hello, stanger ..." cols="35" rows="5" name="message" id="message"></textarea>
+    <input class="formItem" type="submit" value="SEND" src="images/submit.png" border="0" alt="Submit Form" />
+</form>
